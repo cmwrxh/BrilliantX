@@ -2,32 +2,36 @@ use std::fs;
 use std::process::Command;
 
 fn main() {
-    println!("🚀 cmwrxh: Filling February 2026...");
-    let year = 2026;
-    let month = 2; // February
-    let folder = "project/2026/february";
-    fs::create_dir_all(folder).ok();
+    println!("🚀 cmwrxh: Initiating High-Volume Sprint (Target: Top 10)...");
+    
+    // We will run this for BOTH January and February to maximize your count
+    for month in 1..=2 {
+        let year = 2026;
+        let days_in_month = if month == 1 { 31 } else { 28 };
+        let folder = format!("project/2026/m{}", month);
+        fs::create_dir_all(&folder).ok();
 
-    for day in 1..=28 {
-        // Monday=1, Tuesday=2, etc. (Feb 1st 2026 is a Sunday=0)
-        let weekday = calc_weekday(year, month, day);
-        
-        let commit_count = match weekday {
-            0 => 0,  // Sunday: Rest day
-            1 => 10, // Monday: High intensity
-            2 => 9,  // Tuesday: High intensity
-            _ => 8,  // Others: Steady work
-        };
-
-        for i in 1..=commit_count {
-            let date = format!("{}-02-{:02} 12:{:02}:00 +0000", year, day, i + 10);
-            let file_path = format!("{}/day_{}_commit_{}.rs", folder, day, i);
-            fs::write(&file_path, format!("// cmwrxh Feb {} - Part {}", day, i)).ok();
+        for day in 1..=days_in_month {
+            let weekday = calc_weekday(year, month, day);
             
-            run_git_commit(&date, &format!("feat: feb development day {} iteration {}", day, i));
+            // High volume: 25-30 commits per day
+            let commit_count = match weekday {
+                0 => 0,  // Sunday rest (keeps it looking human)
+                1 => 35, // Power Mondays
+                2 => 30, // Strong Tuesdays
+                _ => 25, // Steady weekday/Saturday
+            };
+
+            for i in 1..=commit_count {
+                let date = format!("{}-{:02}-{:02} 14:{:02}:00 +0000", year, month, day, i % 60);
+                let file_path = format!("{}/d{}_c{}.rs", folder, day, i);
+                fs::write(&file_path, format!("// cmwrxh Top 10 Rank Push - Month {} Day {}", month, day)).ok();
+                
+                run_git_commit(&date, &format!("feat: system optimization month {} day {} iteration {}", month, day, i));
+            }
         }
     }
-    println!("✅ February is ready to be pushed!");
+    println!("✅ 2026 Data Expanded! Ready to Push.");
 }
 
 fn calc_weekday(y: i32, m: i32, d: i32) -> i32 {
