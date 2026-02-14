@@ -1,15 +1,15 @@
-<h1 align="center">🦄 Brilliant Unicorn cmwrxh</h1>
-<h3 align="center">Full stack developer from East Africa, Kenya</h3>
+<h1 align="center">🦄 Brilliant Unicorn </h1>
+<h3 align="center">Full stack developer from Nairobi, Kenya</h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cmwrxh&theme=flat&column=7" alt="cmwrxh trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=cmwrxh&theme=flat&column=7" alt="" />
   </a> 
 </p>
 
 <p align="center"> 
   <a href="https://twitter.com/cmwrxh" target="blank">
-    <img src="https://img.shields.io/twitter/follow/cmwrxh?logo=twitter&style=for-the-badge" alt="cmwrxh twitter" />
+    <img src="https://img.shields.io/twitter/follow/cmwrxh?logo=twitter&style=for-the-badge" alt="" />
   </a> 
 </p>
 
@@ -18,9 +18,9 @@
 ### ✍️ Blog Posts
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cmwrxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cmwrxh" height="30" width="40" /></a>
-<a href="https://instagram.com/cmwrxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cmwrxh" height="30" width="40" /></a>
-<a href="https://medium.com/@cmwrxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cmwrxh" height="30" width="40" /></a>
+<a href="https://twitter.com/cmwrxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/cmwrxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://medium.com/@cmwrxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
@@ -39,7 +39,7 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmwrxh&show_icons=true&locale=en&theme=radical&hide_border=false" alt="cmwrxh stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cmwrxh&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false" alt="cmwrxh top languages" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmwrxh&theme=radical&hide_border=false" alt="cmwrxh streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cmwrxh&show_icons=true&locale=en&theme=radical&hide_border=false" alt="" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cmwrxh&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false" alt="" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmwrxh&theme=radical&hide_border=false" alt="" />
 </p>
