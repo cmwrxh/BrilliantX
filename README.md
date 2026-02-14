@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cmwrxh" alt="cmwrxh trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=cmwrxh&theme=flat&column=7" alt="cmwrxh trophies" />
   </a> 
 </p>
 
@@ -12,6 +12,8 @@
     <img src="https://img.shields.io/twitter/follow/cmwrxh?logo=twitter&style=for-the-badge" alt="cmwrxh twitter" />
   </a> 
 </p>
+
+---
 
 ### ✍️ Blog Posts
 <h3 align="left">🤝 Connect with me:</h3>
@@ -37,10 +39,7 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmwrxh&show_icons=true&locale=en&layout=compact&hide_border=true" alt="cmwrxh top languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cmwrxh&show_icons=true&locale=en&hide_border=true" alt="cmwrxh stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmwrxh&hide_border=true" alt="cmwrxh streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cmwrxh&show_icons=true&locale=en&theme=radical&hide_border=false" alt="cmwrxh stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cmwrxh&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false" alt="cmwrxh top languages" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmwrxh&theme=radical&hide_border=false" alt="cmwrxh streak" />
 </p>
